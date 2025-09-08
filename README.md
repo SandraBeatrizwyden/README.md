@@ -1,7 +1,13 @@
-Trabalho da faculdade. Jogo Super Trunfo feito em C.
+# Super Trunfo - Cadastro de Cartas
 
-## Como usar
+Programa em C que cadastra duas cartas com informações de cidades: estado, código, nome, população, área, PIB e pontos turísticos.
 
-1. Compile com o GCC:
+Como usar:
 
-Sandra Beatriz - Curso: Análise e desenvolvimento de sistemas.
+1. Compile o programa com:  
+   `gcc super_trunfo.c -o super_trunfo`
+
+2. Rode o programa com:  
+   `./super_trunfo`
+
+Digite as informações pedidas e veja as cartas cadastradas na tela.
