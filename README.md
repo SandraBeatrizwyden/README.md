@@ -4,4 +4,4 @@ Trabalho da faculdade. Jogo Super Trunfo feito em C.
 
 1. Compile com o GCC:
 
-Sandra Beatriz - Curso:Analise e desenvolvimento de sistemas.
+Sandra Beatriz - Curso: Análise e desenvolvimento de sistemas.
